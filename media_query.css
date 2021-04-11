@@ -1,0 +1,17 @@
+@media only screen and (max-width: 768px) {
+    div.nav-bar {
+        display: block;
+        background-color: brown;
+        text-align: center;
+
+    }
+
+    .nav-bar ul.nav-links {
+        justify-content: center;
+        text-align: center;
+    }
+
+    body {
+        background-color: aliceblue;
+    }
+}
